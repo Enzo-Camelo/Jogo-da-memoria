@@ -6,4 +6,4 @@
 
 Este projeto está hospedado gratuitamente com [GitHub Pages](https://pages.github.com/).
 
-🔗 Acesse aqui: [Jogo da memória](https://enzo-camelo.github.io/GAME-Detona-Ralph/)
+🔗 Acesse aqui: [Jogo da memória](https://enzo-camelo.github.io/Jogo-da-memoria/)
